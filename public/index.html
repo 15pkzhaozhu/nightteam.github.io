@@ -17,7 +17,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"github.com","root":"/nightteam.github.io/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"github.com","root":"/nightteam.github.io/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":5,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
   <meta name="description" content="涉猎的主要编程语言为 Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等。">
@@ -104,6 +104,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -118,16 +119,53 @@
     <a href="/nightteam.github.io/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
 
   </li>
-        <li class="menu-item menu-item-archives">
+        <li class="menu-item menu-item-tags">
 
-    <a href="/nightteam.github.io/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+    <a href="/nightteam.github.io/tags/" rel="section"><i class="tags fa-fw"></i>标签</a>
 
   </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/nightteam.github.io/categories/" rel="section"><i class="th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/nightteam.github.io/archives/" rel="section"><i class="archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
     </header>
@@ -144,6 +182,67 @@
 
           <div class="content index posts-expand">
             
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://github.com/15pkzhaozhu/nightteam.github.io/2020/08/28/My-New-Post/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/nightteam.github.io/images/pig.jfif">
+      <meta itemprop="name" content="zhaozhu">
+      <meta itemprop="description" content="涉猎的主要编程语言为 Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等。">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="忍者猪猪侠">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/nightteam.github.io/2020/08/28/My-New-Post/" class="post-title-link" itemprop="url">简洁好用的数据库表结构文档生成器</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2020-08-28 14:11:54 / 修改时间：16:57:30" itemprop="dateCreated datePublished" datetime="2020-08-28T14:11:54+08:00">2020-08-28</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h2 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h2><h4 id="普通方式"><a href="#普通方式" class="headerlink" title="普通方式"></a>普通方式</h4><h5 id="引入依赖"><a href="#引入依赖" class="headerlink" title="引入依赖"></a>引入依赖</h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;dependency&gt;</span><br><span class="line">    &lt;groupId&gt;cn.smallbun.screw&lt;/groupId&gt;</span><br><span class="line">    &lt;artifactId&gt;screw-core&lt;/artifactId&gt;</span><br><span class="line">    &lt;version&gt;<span class="variable">$&#123;lastVersion&#125;</span>&lt;/version&gt;</span><br><span class="line"> &lt;/dependency&gt;</span><br></pre></td></tr></table></figure>
+<h5 id="编写代码"><a href="#编写代码" class="headerlink" title="编写代码"></a>编写代码</h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br></pre></td><td class="code"><pre><span class="line">/**</span><br><span class="line"> * 文档生成</span><br><span class="line"> */</span><br><span class="line">void <span class="function"><span class="title">documentGeneration</span></span>() &#123;</span><br><span class="line">   //数据源</span><br><span class="line">   HikariConfig hikariConfig = new HikariConfig();</span><br><span class="line">   hikariConfig.setDriverClassName(<span class="string">&quot;com.mysql.cj.jdbc.Driver&quot;</span>);</span><br><span class="line">   hikariConfig.setJdbcUrl(<span class="string">&quot;jdbc:mysql://127.0.0.1:3306/database&quot;</span>);</span><br><span class="line">   hikariConfig.setUsername(<span class="string">&quot;root&quot;</span>);</span><br><span class="line">   hikariConfig.setPassword(<span class="string">&quot;password&quot;</span>);</span><br><span class="line">   //设置可以获取tables remarks信息</span><br><span class="line">   hikariConfig.addDataSourceProperty(<span class="string">&quot;useInformationSchema&quot;</span>, <span class="string">&quot;true&quot;</span>);</span><br><span class="line">   hikariConfig.setMinimumIdle(2);</span><br><span class="line">   hikariConfig.setMaximumPoolSize(5);</span><br><span class="line">   DataSource dataSource = new HikariDataSource(hikariConfig);</span><br><span class="line">   //生成配置</span><br><span class="line">   EngineConfig engineConfig = EngineConfig.builder()</span><br><span class="line">         //生成文件路径</span><br><span class="line">         .fileOutputDir(fileOutputDir)</span><br><span class="line">         //打开目录</span><br><span class="line">         .openOutputDir(<span class="literal">true</span>)</span><br><span class="line">         //文件类型</span><br><span class="line">         .fileType(EngineFileType.HTML)</span><br><span class="line">         //生成模板实现</span><br><span class="line">         .produceType(EngineTemplateType.freemarker)</span><br><span class="line">         //自定义文件名称</span><br><span class="line">         .fileName(<span class="string">&quot;自定义文件名称&quot;</span>).build();</span><br><span class="line"></span><br><span class="line">   //忽略表</span><br><span class="line">   ArrayList&lt;String&gt; ignoreTableName = new ArrayList&lt;&gt;();</span><br><span class="line">   ignoreTableName.add(<span class="string">&quot;test_user&quot;</span>);</span><br><span class="line">   ignoreTableName.add(<span class="string">&quot;test_group&quot;</span>);</span><br><span class="line">   //忽略表前缀</span><br><span class="line">   ArrayList&lt;String&gt; ignorePrefix = new ArrayList&lt;&gt;();</span><br><span class="line">   ignorePrefix.add(<span class="string">&quot;test_&quot;</span>);</span><br><span class="line">   //忽略表后缀    </span><br><span class="line">   ArrayList&lt;String&gt; ignoreSuffix = new ArrayList&lt;&gt;();</span><br><span class="line">   ignoreSuffix.add(<span class="string">&quot;_test&quot;</span>);</span><br><span class="line">   ProcessConfig processConfig = ProcessConfig.builder()</span><br><span class="line">         //指定生成逻辑、当存在指定表、指定表前缀、指定表后缀时，将生成指定表，其余表不生成、并跳过忽略表配置    </span><br><span class="line">         //根据名称指定表生成</span><br><span class="line">         .designatedTableName(new ArrayList&lt;&gt;())</span><br><span class="line">         //根据表前缀生成</span><br><span class="line">         .designatedTablePrefix(new ArrayList&lt;&gt;())</span><br><span class="line">         //根据表后缀生成    </span><br><span class="line">         .designatedTableSuffix(new ArrayList&lt;&gt;())</span><br><span class="line">         //忽略表名</span><br><span class="line">         .ignoreTableName(ignoreTableName)</span><br><span class="line">         //忽略表前缀</span><br><span class="line">         .ignoreTablePrefix(ignorePrefix)</span><br><span class="line">         //忽略表后缀</span><br><span class="line">         .ignoreTableSuffix(ignoreSuffix).build();</span><br><span class="line">   //配置</span><br><span class="line">   Configuration config = Configuration.builder()</span><br><span class="line">         //版本</span><br><span class="line">         .version(<span class="string">&quot;1.0.0&quot;</span>)</span><br><span class="line">         //描述</span><br><span class="line">         .description(<span class="string">&quot;数据库设计文档生成&quot;</span>)</span><br><span class="line">         //数据源</span><br><span class="line">         .dataSource(dataSource)</span><br><span class="line">         //生成配置</span><br><span class="line">         .engineConfig(engineConfig)</span><br><span class="line">         //生成配置</span><br><span class="line">         .produceConfig(processConfig)</span><br><span class="line">         .build();</span><br><span class="line">   //执行生成</span><br><span class="line">   new DocumentationExecute(config).execute();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h4 id="Maven-插件"><a href="#Maven-插件" class="headerlink" title="Maven 插件"></a>Maven 插件</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br></pre></td><td class="code"><pre><span class="line">&lt;build&gt;</span><br><span class="line">    &lt;plugins&gt;</span><br><span class="line">        &lt;plugin&gt;</span><br><span class="line">            &lt;groupId&gt;cn.smallbun.screw&lt;/groupId&gt;</span><br><span class="line">            &lt;artifactId&gt;screw-maven-plugin&lt;/artifactId&gt;</span><br><span class="line">            &lt;version&gt;<span class="variable">$&#123;lastVersion&#125;</span>&lt;/version&gt;</span><br><span class="line">            &lt;dependencies&gt;</span><br><span class="line">                &lt;!-- HikariCP --&gt;</span><br><span class="line">                &lt;dependency&gt;</span><br><span class="line">                    &lt;groupId&gt;com.zaxxer&lt;/groupId&gt;</span><br><span class="line">                    &lt;artifactId&gt;HikariCP&lt;/artifactId&gt;</span><br><span class="line">                    &lt;version&gt;3.4.5&lt;/version&gt;</span><br><span class="line">                &lt;/dependency&gt;</span><br><span class="line">                &lt;!--mysql driver--&gt;</span><br><span class="line">                &lt;dependency&gt;</span><br><span class="line">                    &lt;groupId&gt;mysql&lt;/groupId&gt;</span><br><span class="line">                    &lt;artifactId&gt;mysql-connector-java&lt;/artifactId&gt;</span><br><span class="line">                    &lt;version&gt;8.0.20&lt;/version&gt;</span><br><span class="line">                &lt;/dependency&gt;</span><br><span class="line">            &lt;/dependencies&gt;</span><br><span class="line">            &lt;configuration&gt;</span><br><span class="line">                &lt;!--username--&gt;</span><br><span class="line">                &lt;username&gt;root&lt;/username&gt;</span><br><span class="line">                &lt;!--password--&gt;</span><br><span class="line">                &lt;password&gt;password&lt;/password&gt;</span><br><span class="line">                &lt;!--driver--&gt;</span><br><span class="line">                &lt;driverClassName&gt;com.mysql.cj.jdbc.Driver&lt;/driverClassName&gt;</span><br><span class="line">                &lt;!--jdbc url--&gt;</span><br><span class="line">                &lt;jdbcUrl&gt;jdbc:mysql://127.0.0.1:3306/xxxx&lt;/jdbcUrl&gt;</span><br><span class="line">                &lt;!--生成文件类型--&gt;</span><br><span class="line">                &lt;fileType&gt;HTML&lt;/fileType&gt;</span><br><span class="line">                &lt;!--打开文件输出目录--&gt;</span><br><span class="line">                &lt;openOutputDir&gt;<span class="literal">false</span>&lt;/openOutputDir&gt;</span><br><span class="line">                &lt;!--生成模板--&gt;</span><br><span class="line">                &lt;produceType&gt;freemarker&lt;/produceType&gt;</span><br><span class="line">                &lt;!--文档名称 为空时:将采用[数据库名称-描述-版本号]作为文档名称--&gt;</span><br><span class="line">                &lt;fileName&gt;测试文档名称&lt;/fileName&gt;</span><br><span class="line">                &lt;!--描述--&gt;</span><br><span class="line">                &lt;description&gt;数据库文档生成&lt;/description&gt;</span><br><span class="line">                &lt;!--版本--&gt;</span><br><span class="line">                &lt;version&gt;<span class="variable">$&#123;project.version&#125;</span>&lt;/version&gt;</span><br><span class="line">                &lt;!--标题--&gt;</span><br><span class="line">                &lt;title&gt;数据库文档&lt;/title&gt;</span><br><span class="line">            &lt;/configuration&gt;</span><br><span class="line">            &lt;executions&gt;</span><br><span class="line">                &lt;execution&gt;</span><br><span class="line">                    &lt;phase&gt;compile&lt;/phase&gt;</span><br><span class="line">                    &lt;goals&gt;</span><br><span class="line">                        &lt;goal&gt;run&lt;/goal&gt;</span><br><span class="line">                    &lt;/goals&gt;</span><br><span class="line">                &lt;/execution&gt;</span><br><span class="line">            &lt;/executions&gt;</span><br><span class="line">        &lt;/plugin&gt;</span><br><span class="line">    &lt;/plugins&gt;</span><br><span class="line">&lt;/build&gt;</span><br></pre></td></tr></table></figure>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
       
   
   
@@ -278,7 +377,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/nightteam.github.io/archives/">
         
-          <span class="site-state-item-count">1</span>
+          <span class="site-state-item-count">2</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -415,6 +514,10 @@ window.addEventListener('pjax:success', () => {
   
 
 
+
+
+  
+<script src="/nightteam.github.io/js/local-search.js"></script>
 
 
 
