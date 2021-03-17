@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8e237f0b-7a80-42aa-a817-4a4ac17b66d4" name="Default Changelist" comment="提交源码-hcf-tax数据库设计文档">
-      <change afterPath="$PROJECT_DIR$/public/2020/08/28/hcf-tax/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/hcf-tax.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2020/08/18/hello-world/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2020/08/18/hello-world/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-deployer-git/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-deployer-git/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-deployer-git/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-deployer-git/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-deployer-git/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-deployer-git/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-deployer-git/lib/deployer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-deployer-git/lib/deployer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-deployer-git/lib/parse_config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-deployer-git/lib/parse_config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-deployer-git/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-deployer-git/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/atom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/lib/autodiscovery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/lib/autodiscovery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/lib/generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/lib/generator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hexo-generator-feed/rss2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hexo-generator-feed/rss2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2020/08/18/hello-world/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/2020/08/28/My-New-Post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2020/08/28/My-New-Post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2020/08/28/hcf-tax/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/2020/08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2020/08/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2020/index.html" afterDir="false" />
@@ -17,222 +34,120 @@
       <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/html/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/html/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pig.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/algolia-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/algolia-search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bookmark.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bookmark.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/local-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/local-search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/motion.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/motion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/next-boot.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/next-boot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/schemes/muse.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/schemes/muse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/schemes/pisces.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/schemes/pisces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/anime.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/lib/anime.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/font-awesome/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/lib/font-awesome/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/CHANGELOG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/example/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/example/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/example/page2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/example/page3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/abort-request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/eval-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/events/off.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/events/on.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/events/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/execute-scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/foreach-els.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/foreach-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/is-supported.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/parse-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/proto/attach-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/proto/attach-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/proto/handle-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/proto/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/proto/parse-element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/send-request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/switches-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/switches.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/uniqueid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/util/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/util/contains.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/util/extend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/util/noop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/lib/util/update-query-string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/pjax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/pjax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/abort-request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/eval-scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/execute-scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/foreach-els.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/foreach-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/is-supported.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/parse-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/proto/attach-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/proto/attach-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/proto/handle-response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/proto/parse-element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/send-request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/switch-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/switches.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/uniqueid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/util/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/util/contains.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/util/extend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/util/noop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/lib/util/update-query-string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/pjax/tests/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/velocity/velocity.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/lib/velocity/velocity.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/lib/velocity/velocity.ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/lib/velocity/velocity.ui.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/search.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hcf-tax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-401">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deploy.bat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.bat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/My-New-Post.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="283">
-                <caret line="146" selection-start-line="146" selection-end-line="146" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/hcf-tax.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1519">
-                <caret line="6891" selection-start-line="6891" selection-end-line="6891" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/search.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/html/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-468" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="747" column="22" selection-start-line="747" selection-start-column="22" selection-end-line="747" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/404.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="274">
-                <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Deployment</find>
-      <find>url</find>
-      <find>sc</find>
-      <find>theme</find>
-      <find>va</find>
-      <find>avatar</find>
-      <find>codeblock</find>
-      <find>Gitalk</find>
-      <find>math</find>
-      <find>git</find>
-      <find>hexo new</find>
-      <find>menu</find>
-      <find>Local searc</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/source/_posts/hello-world.md" />
-        <option value="$PROJECT_DIR$/source/tags/index.md" />
-        <option value="$PROJECT_DIR$/source/categories/index.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/next/_config.yml" />
-        <option value="$PROJECT_DIR$/source/404.md" />
-        <option value="$PROJECT_DIR$/deploy.bat" />
-        <option value="$PROJECT_DIR$/run.bat" />
-        <option value="$PROJECT_DIR$/source/CNAME" />
-        <option value="$PROJECT_DIR$/source/_posts/My-New-Post.md" />
-        <option value="$PROJECT_DIR$/source/_posts/hcf-tax.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1383" />
-    <option name="height" value="744" />
-  </component>
+  <component name="ProjectId" id="1i7V8nYmCtcETNybbDivcXJS4oL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="nightteam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nightteam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nightteam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nightteam" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nightteam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nightteam" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/worktools/node/node.exe" />
-    <property name="nodejs_interpreter_path" value="D:/worktools/node/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learnspace\nightteam.github.io\themes\next\source\images" />
       <recent name="D:\learnworkspace\nightteam\source\html" />
       <recent name="D:\learnworkspace\nightteam" />
       <recent name="D:\learnworkspace\nightteam\themes\next\source\images" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="npm.server">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -279,11 +194,12 @@
       <list>
         <item itemvalue="npm.server" />
         <item itemvalue="npm.build" />
-        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.clean" />
+        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -302,6 +218,10 @@
       <workItem from="1597972561307" duration="1765000" />
       <workItem from="1598586060895" duration="3009000" />
       <workItem from="1598595625338" duration="9233000" />
+      <workItem from="1601258464584" duration="122000" />
+      <workItem from="1601258611732" duration="3160000" />
+      <workItem from="1601261828891" duration="2974000" />
+      <workItem from="1615961731288" duration="468000" />
     </task>
     <task id="LOCAL-00001" summary="提交源码">
       <created>1597755806749</created>
@@ -334,57 +254,15 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29663000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48372093" visible="true" weight="0.25416997" />
-      <window_info id="npm" order="1" sideWeight="0.51627904" side_tool="true" visible="true" weight="0.25416997" />
-      <window_info id="Structure" order="2" sideWeight="0.5147059" side_tool="true" weight="0.23510723" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4458042" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.4988086" visible="true" weight="0.6241259" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119144" side_tool="true" weight="0.6241259" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4988086" weight="0.5174825" />
-      <window_info anchor="bottom" id="TypeScript" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -403,6 +281,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -414,159 +293,90 @@
     <MESSAGE value="提交源码-hcf-tax数据库设计文档" />
     <option name="LAST_COMMIT_MESSAGE" value="提交源码-hcf-tax数据库设计文档" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/db.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16184" selection-start-column="16184" selection-end-column="16184" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scaffolds/draft.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/NodeJS/lib/NodeJS.jar!/com/jetbrains/nodejs/packageJson/packageJsonSchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7930">
-          <caret line="305" column="10" selection-start-line="305" selection-start-column="10" selection-end-line="305" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/hexo-generator-feed/rss2.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/landscape/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/tags/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/categories/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="747" column="22" selection-start-line="747" selection-start-column="22" selection-end-line="747" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/404.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="274">
-            <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-401">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="211">
-            <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/html/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/search.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/My-New-Post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="283">
-            <caret line="146" selection-start-line="146" selection-end-line="146" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hcf-tax.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1519">
-            <caret line="6891" selection-start-line="6891" selection-end-line="6891" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="397" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601263334276">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="397" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1601263334276" />
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog" timestamp="1601264472641">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1601264472641" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1601262667449">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1601262667449" />
+    <state width="1259" height="217" key="GridCell.Tab.0.bottom" timestamp="1601264813677">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="217" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1601264813677" />
+    <state width="1259" height="217" key="GridCell.Tab.0.center" timestamp="1601264813677">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="217" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1601264813677" />
+    <state width="1259" height="217" key="GridCell.Tab.0.left" timestamp="1601264813677">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="217" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1601264813677" />
+    <state width="1259" height="217" key="GridCell.Tab.0.right" timestamp="1601264813677">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="217" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1601264813677" />
+    <state width="1259" height="208" key="GridCell.Tab.1.bottom" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.1.center" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.1.left" timestamp="1601263971903">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1601263971903" />
+    <state width="1259" height="208" key="GridCell.Tab.1.right" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.2.bottom" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.2.bottom/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.2.center" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.2.center/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.2.left" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.2.left/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.2.right" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.2.right/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.3.bottom" timestamp="1601263971905">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.3.bottom/0.0.1280.689@0.0.1280.689" timestamp="1601263971905" />
+    <state width="1259" height="208" key="GridCell.Tab.3.center" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.3.center/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.3.left" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.3.left/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state width="1259" height="208" key="GridCell.Tab.3.right" timestamp="1601263971904">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.3.right/0.0.1280.689@0.0.1280.689" timestamp="1601263971904" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1601264704427">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1601264704427" />
+    <state x="339" y="48" width="603" height="594" key="find.popup" timestamp="1601263772579">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="339" y="48" width="603" height="594" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1601263772579" />
   </component>
 </project>
